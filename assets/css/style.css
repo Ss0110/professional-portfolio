@@ -114,20 +114,3 @@ figcaption.p2 {
   height: auto;
   margin-bottom: 20px;
 }
-
-@media screen and (max-width: 600px) {
-  /* Add your responsive styles here */
-  /* Example: */
-  body {
-      font-size: 14px;
-  }
-}
-
-/* Styles for screens with a maximum width of 400 pixels */
-@media screen and (max-width: 400px) {
-  /* Add your responsive styles here */
-  /* Example: */
-  header {
-      display: none;
-  }
-}
